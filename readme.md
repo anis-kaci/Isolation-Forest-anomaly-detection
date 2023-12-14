@@ -2,7 +2,8 @@
 
 Isolation Forests is an unsupervised machine learning algorithm that builds an ensemble of Isolation Trees (iTrees). These trees are binary structures used to isolate data points, particularly detecting anomalies within a dataset. Anomalies are likely to be closer to the root on an iTree, meaning the fewer decisions required to isolate a point, the more probable it is to be an anomaly.
 
-![Isolation Forests](https://www.researchgate.net/publication/350551253/figure/fig3/AS:1007770669174784@1617282659072/Anomaly-Detection-using-Isolation-Forest-18.png)
+![Isolation Forests](assets/ITreesViz.png)
+
 
 ## Steps
 
