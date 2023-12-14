@@ -90,6 +90,8 @@ def anom_plot(data, anomaly_detection_method, x_var, y_var,
 anom_plot(df, "Isolation forest", "NPHI", "RHOB", [0, 0.8], [3, 1.5])
 
 
+#test for multidimensional 
+
 
 
     
